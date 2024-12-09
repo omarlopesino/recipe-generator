@@ -15,6 +15,6 @@
   },
   "require": {
     "drupal/core": ">=11",
-    "drush/drush": ">= 11"
+    "drush/drush": "^13.0"
   }
 }
